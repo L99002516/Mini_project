@@ -1,0 +1,3 @@
+/home/training/Downloads/Analyze_AgriculturaCrops_in_India-master/Source/CMakeFiles/rebuild_cache.dir
+/home/training/Downloads/Analyze_AgriculturaCrops_in_India-master/Source/CMakeFiles/edit_cache.dir
+/home/training/Downloads/Analyze_AgriculturaCrops_in_India-master/Source/CMakeFiles/Tests.dir
